@@ -13,4 +13,4 @@
 <hr> 
 </hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdelam01)](https://github.com/pdelam01/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdelam01)](https://github.com/pdelam01/github-readme-stats&theme=tokyonight)
