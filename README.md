@@ -10,4 +10,4 @@
 - ⚡ Most interested in:
   Cibersecurity and Communication Networks
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdelam01)](https://github.com/pdelam01/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdelam01&layout=compact)](https://github.com/pdelam01/github-readme-stats)
