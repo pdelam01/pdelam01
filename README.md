@@ -9,5 +9,6 @@
 
 - ⚡ Most interested in:
   Cibersecurity and Communication Networks
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdelam01&layout=compact)](https://github.com/pdelam01/github-readme-stats)
+  
+ #Most used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdelam01)](https://github.com/pdelam01/github-readme-stats)
