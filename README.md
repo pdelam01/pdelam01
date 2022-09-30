@@ -2,7 +2,7 @@
 ### I’m Pablo de la Hera, welcome to my GitHub Profile 😁
 
 
-- 🌱 I’m currently studying the Master of Research in Cybersecurity at UNiversidad de León
+- 🌱 I’m currently studying the Master of Research in Cybersecurity at Universidad de León
 
 - 📫 How to reach me:
   <a href="https://es.linkedin.com/in/pablo-de-la-hera-martinez-88a3b819a">LinkedIn Profile</a>
