@@ -13,7 +13,7 @@
 <hr> 
 </hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdelam01&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/pdelam01/github-readme-stats)
+<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdelam01&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/pdelam01/github-readme-stats)-->
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pdelam01&color=blue&style=flat)
